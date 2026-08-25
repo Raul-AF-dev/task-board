@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Project specific
+task-board
+*.db
+*.json
+obj/
