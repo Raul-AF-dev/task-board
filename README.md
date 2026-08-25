@@ -6,4 +6,4 @@ sudo apt-get update && sudo apt-get install -y libgtk-4-dev libsqlite3-dev
 
 After that, run:
 make
-./trello_clone
+./task-board
