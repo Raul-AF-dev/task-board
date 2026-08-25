@@ -1,4 +1,4 @@
-# Trello Clone
+# Task board - Kanban style board application
 To compile this project, you need GTK4 and SQLite3 development files.
 Run the following in your terminal to install them:
 
